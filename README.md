@@ -5,17 +5,10 @@ It demonstrates basic **Infrastructure as Code (IaC)** concepts and helps you qu
 
 ---
 
-## 🚀 Purpose
+##  Purpose
 
 - Launch an EC2 instance automatically with Terraform  
 - Configure access via SSH key  
 - Learn and practice AWS + Terraform basics  
 
 ---
-
-## ⚙️ Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/greyflame1/emi_EC2_project.git
-   cd emi_EC2_project
