@@ -18,4 +18,4 @@ It demonstrates basic **Infrastructure as Code (IaC)** concepts and helps you qu
 1. Clone the repository:
    ```bash
    git clone https://github.com/greyflame1/emi_EC2_project.git
-   cd EC2_project
+   cd emi_EC2_project
